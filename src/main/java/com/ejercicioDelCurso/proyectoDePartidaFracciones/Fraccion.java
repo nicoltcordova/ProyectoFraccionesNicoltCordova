@@ -12,13 +12,19 @@ public class Fraccion {
 		this.numerador = numerador;
 		this.denominador = denominador;
 	}
+	public static Fraccion simplifica(Fraccion entrada) {
+		return entrada; //PONGO ESTO POR EJEMPLO
+	}
+
+
+
+
 /*
  * 	Añadir las siguientes operaciones a Fracción
  * 
  * 
  * 
-	public static Fraccion simplifica(Fraccion entrada) {
-	}
+
 	
 	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
 	}
