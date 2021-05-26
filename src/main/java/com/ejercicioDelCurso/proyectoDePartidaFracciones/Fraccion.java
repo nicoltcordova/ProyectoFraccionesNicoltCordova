@@ -16,7 +16,9 @@ public class Fraccion {
 		return entrada; //PONGO ESTO POR EJEMPLO
 	}
 
-
+	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
+		return sumando1; //Pongo esto por ejemplo
+	}
 
 
 /*
@@ -26,8 +28,7 @@ public class Fraccion {
  * 
 
 	
-	public static Fraccion suma(Fraccion sumando1, Fraccion sumando2) {
-	}
+
 	public static Fraccion multiplicacion(Fraccion sumando1, Fraccion sumando2) {
 	}
 	public static Fraccion division(Fraccion sumando1, Fraccion sumando2) {
